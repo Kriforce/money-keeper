@@ -1,1 +1,1 @@
-# money-keeper
+https://kriforce.github.io/money-keeper/
